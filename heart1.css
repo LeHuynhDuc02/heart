@@ -147,10 +147,16 @@ span:nth-child(10)
 }
 .img1 {
     display: block;
-    width: 80px;
-    height: 80px;
+    width: 30px;
+    height: 30px;
+}
+.vt1 {
     margin: auto;
     margin-top: 50vh;
-    color: red;
 }
+.vt2 {
+    margin-top: -350px;
+    margin-left: 100px;
+}
+
 
