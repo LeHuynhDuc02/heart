@@ -12,7 +12,7 @@ section {
     left: 0;
     width: 100%;
     height: 100vh;
-    background: url(./hinhbautroi2.jpg);
+    background: url(./hinhbautroi1.jpg);
     background-position-x: center;
     background-size: cover;
     animation: animateBg 40s linear infinite;
@@ -147,16 +147,19 @@ span:nth-child(10)
 }
 .img1 {
     display: block;
-    width: 30px;
-    height: 30px;
+    width: 10px;
+    height: 10px;
 }
 .vt1 {
     margin: auto;
-    margin-top: 50vh;
+    margin-top: 70vh;
 }
 .vt2 {
     margin-top: -350px;
-    margin-left: 100px;
+    margin-left: 30vh;
 }
-
+.vt3 {
+    margin-top: 100px;
+    margin-left: 90vh;
+}
 
